@@ -28,7 +28,7 @@
   /* ---------- optional: Microsoft Clarity (screen-recording style replays) ----------
    * Paste your Clarity project ID between the quotes. Empty = Clarity is not loaded.
    * Browsers with ?notrack=1 are excluded from Clarity too. */
-  var CLARITY_ID = '';
+  var CLARITY_ID = 'zda5erbpkf';
   if (CLARITY_ID && !DISABLED) {
     (function (c, l, a, r, i, t, y) {
       c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
